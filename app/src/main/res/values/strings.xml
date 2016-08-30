@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CityLiveIn</string>
+    <string name="city_button_text">Display Your City</string>
+</resources>
