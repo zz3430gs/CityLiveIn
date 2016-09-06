@@ -14,8 +14,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         final EditText nameTextBox = (EditText) findViewById(R.id.city_text_box);
-        final EditText cityTextBox = (EditText) findViewById(R.id.city_search_box);
-        Button cityTextButton = (Button) findViewById(R.id.city_search_button);
+        final EditText cityTextBox = (EditText) findViewById(R.id.city_text_box);
+        Button cityTextButton = (Button) findViewById(R.id.city_text_button);
         cityTextButton.setOnClickListener(new View.OnClickListener(){
 
             @Override
